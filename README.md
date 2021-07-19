@@ -2,9 +2,9 @@
 
 
 # 启动参数：
---timeout=20s
-listen-port=:10000
-inter-path=/inter/timeout/simulate
+* --timeout=20s
+* --listen-port=:10000
+* --inter-path=/inter/timeout/simulate
 
 server 监听到启动
 http://本机IP:10000/inter/timeout/simulate
