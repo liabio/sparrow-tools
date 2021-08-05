@@ -1,7 +1,7 @@
 # sparrow-tools
 
 
-# 启动参数：
+# 启动参数
 * --timeout=20s
 * --listen-port=:10000
 * --inter-path=/inter/timeout/simulate
